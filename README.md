@@ -10,7 +10,7 @@ Meet the Team
 =============
 Spencer McWilliams
 - CSCI Major
-- Familiar with HTML, CSS, AJAX, JSF
+- Familiar with HTML, CSS, AJAX, JSF, C++, C, java, objective-c
 - Familiar with Photoshop, Illustator
 - Having used JSF and AJAX I'm familiar with the method of development
 	which I hope will help us. 
