@@ -26,3 +26,20 @@ Alen Maragoul
 - Voted Most Likely To Be "That Guy"
 - Gets Down with C++: 111 , 211, 311
 - Moderate Experience with C# in Unity to Publish Small Project on Google Play Store and Amazon App Store
+
+Patrick Barnum
+- APCG Major, Video Game Design Minor
+- Programming languages (Comfortable to not so comfortable)
+    - HTML, CSS, PHP, C++, JavaScript (and jQuery), mySQL, C#
+- I'm currently the lead programmer for hbrisk.com
+- I created my own website from scratch (no laravel/bootstrap framework) at patrickbarnum.com
+
+Widget Ideas
+============
+- What You See Is What You Get (WYSIWYG) Text editor
+- File Uploader (GUI)
+    - Drag-and-drop style interaction.
+    - Multiple views (detailed, thumbnails, etc.)
+- Calculator(s)
+- Multi-language Keyboard
+    - A pop up keyboard to switch between languages for easier typing.
