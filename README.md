@@ -3,6 +3,8 @@ javabang
 
 Purpose
 =======
+- Develop a widget or a set of widgets in an open source setting.
+- All widgets will be fully customizable in terms of color schemes.
 
 Meet the Team
 =============
