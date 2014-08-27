@@ -20,3 +20,9 @@ Nicholas Krupin
 - Comfortable with C++, C
 - dabbled with java,ruby, c#
 - learning python
+
+Alen Maragoul
+- APCG Major
+- Voted Most Likely To Be "That Guy"
+- Gets Down with C++: 111 , 211, 311
+- Moderate Experience with C# in Unity to Publish Small Project on Google Play Store and Amazon App Store
