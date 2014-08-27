@@ -14,3 +14,9 @@ Spencer McWilliams
 - Familiar with Photoshop, Illustator
 - Having used JSF and AJAX I'm familiar with the method of development
 	which I hope will help us. 
+
+Nicholas Krupin
+- CSCI Major
+- Comfortable with C++, C
+- dabbled with java,ruby, c#
+- learning python
