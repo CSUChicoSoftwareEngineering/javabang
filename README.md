@@ -34,6 +34,11 @@ Patrick Barnum
 - I'm currently the lead programmer for hbrisk.com
 - I created my own website from scratch (no laravel/bootstrap framework) at patrickbarnum.com
 
+Shelby Martin
+- CAGD Major (the new APCG)
+- Hang out with c++ (cos she fly), a small amount of c#, little experience with java and javascript
+- Looking forward to the widget creation
+
 Widget Ideas
 ============
 - What You See Is What You Get (WYSIWYG) Text editor
