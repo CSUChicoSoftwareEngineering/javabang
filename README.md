@@ -39,6 +39,10 @@ Shelby Martin
 - Hang out with c++ (cos she fly), a small amount of c#, little experience with java and javascript
 - Looking forward to the widget creation
 
+Jesse Smith
+- CSCI Major
+- Familiar with C++/C/C#, javascript/jQuery/HTML/CSS/ASP.NET
+
 Widget Ideas
 ============
 - What You See Is What You Get (WYSIWYG) Text editor
