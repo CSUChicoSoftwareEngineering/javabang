@@ -52,3 +52,4 @@ Widget Ideas
 - Calculator(s)
 - Multi-language Keyboard
     - A pop up keyboard to switch between languages for easier typing.
+- Country/State/Continent Picker
