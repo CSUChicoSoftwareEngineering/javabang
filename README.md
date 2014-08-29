@@ -46,7 +46,7 @@ Jesse Smith
 Rick Stone
 - CSCI Major
 - Comfortable with C++, C, Java EE, diffrent SQL's
-- Dabbled with Ruby, protoBuff, TomCat7, ANT-BUILD, HTML, JavaScript 
+- Dabbled with Ruby, ProtoBuff, TomCat7, ANT-BUILD, HTML, JavaScript 
 
 Widget Ideas
 ============
