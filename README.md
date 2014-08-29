@@ -43,6 +43,11 @@ Jesse Smith
 - CSCI Major
 - Familiar with C++/C/C#, javascript/jQuery/HTML/CSS/ASP.NET
 
+Rick Stone
+- CSCI Major
+- Comfortable with C++, C, Java EE, diffrent SQL's
+- Dabbled with Ruby, protoBuff, TomCat7, ANT-BUILD, HTML, JavaScript 
+
 Widget Ideas
 ============
 - What You See Is What You Get (WYSIWYG) Text editor
