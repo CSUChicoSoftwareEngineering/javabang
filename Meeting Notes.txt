@@ -1,0 +1,16 @@
+Feel Free to Edit!
+
+Goals
+=====
+- 100% Angular
+- No JQuery
+- Angular JSWidgets
+
+Information
+===========
+- AngularJS is a FRAMEWORK 
+- egghead.io/articles/new-to-angularjs-start-learning-here
+
+Time Sensitive Information 
+==========================
+- meeting Wed 9/10/14 O'Connell 244 2:00-3:00
