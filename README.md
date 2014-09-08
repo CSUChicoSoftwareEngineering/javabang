@@ -9,6 +9,8 @@ Purpose
 Meet the Team
 =============
 Spencer McWilliams
+spencer.mcw@gmail.com
+(530)574-3465
 - CSCI Major
 - Familiar with HTML, CSS, AJAX, JSF, C++, C, java, objective-c
 - Familiar with Photoshop, Illustator
@@ -22,12 +24,14 @@ Nicholas Krupin
 - learning python
 
 Alen Maragoul
+amaragoul@mail.csuchico.edu
 - APCG Major
 - Voted Most Likely To Be "That Guy"
 - Gets Down with C++: 111 , 211, 311
 - Moderate Experience with C# in Unity to Publish Small Project on Google Play Store and Amazon App Store
 
 Patrick Barnum
+pbarnum1@mail.csuchico.edu
 - APCG Major, Video Game Design Minor
 - Programming languages (Comfortable to not so comfortable)
     - HTML, CSS, PHP, C++, JavaScript (and jQuery), mySQL, C#
@@ -35,6 +39,7 @@ Patrick Barnum
 - I created my own website from scratch (no laravel/bootstrap framework) at patrickbarnum.com
 
 Shelby Martin
+smartin43@mail.csuchico.edu
 - CAGD Major (the new APCG)
 - Hang out with c++ (cos she fly), a small amount of c#, little experience with java and javascript
 - Looking forward to the widget creation

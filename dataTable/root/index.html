@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html ng-app="gemStore">
+  <head>
+    <link rel="stylesheet" type="text/css" href="/styles/style.css" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-rc.0/angular.min.js"></script>
+    <script type="text/javascript" src="DataTable.js"></script>
+  </head>
+	<body ng-controller="TableController as tableCtrl">
+		<h1>{{"Angular Enabled!"}}</h1>
+		{{ tableCtrl.addColumns(["Name","Placeholder"]) }}
+		{{ tableCtrl.columns.length }}
+		<p ng-repeat="column in tableCtrl.columns">{{column.field}}</p>
+	</body>
+</html>
