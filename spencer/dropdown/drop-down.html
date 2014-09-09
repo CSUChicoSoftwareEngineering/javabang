@@ -1,5 +1,5 @@
 <div>
-<input list="browsers">
+<input list="browsers" ng-model="selection">
 <datalist id="browsers">
     <option ng-repeat="value in dropdownCtrl.values" value="{{ value }}" ></option>
 </datalist>
