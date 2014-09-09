@@ -1,5 +1,12 @@
-var app = angular.module('dropdown', []);
+var app = angular.module('app', []);
 
-app.controller('dropdownController', function(){
-	this.options = ["Internet Explored", "Google Chrone"];
+app.directive('dropDown', function () {
+    return {
+        restrict: 'AE',
+        templateUrl: 'drop-down.html',
+        controller:function(){
+            this.values = ["Internet Explored", "Google Chrone"];
+        },
+        controllerAs: 'dropdownCtrl'
+    };
 });
