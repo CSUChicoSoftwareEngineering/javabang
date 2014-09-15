@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html ng-app="dropDown">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script type="text/javascript" src="angular.min.js"></script>
+	<script type="text/javascript" src="dropDown.js"></script>
+	<!-- requires jQuery <script type="text/javascript" src="bootstrap.min.js"></script>-->
+	<link rel="stylesheet" src="bootstrap.min.css">
+	<div ng-controller="dataController as countryNames">
+		<select>
+			<option ng-repeat="title in countryNames.titles">
+				<h1>{{title.name}}</h1>
+			</option>
+		</select>
+	</div>
+</body>
+</html>

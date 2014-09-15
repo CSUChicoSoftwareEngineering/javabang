@@ -1,0 +1,8 @@
+<div>
+	<select ng-model="selectedItem" ng-options="item[drop.listedValue] for item in drop.items | orderBy: drop.listedValue">
+	</select>
+	<div ng-show="selectedItem">
+		<h3>Capital: <em>{{selectedItem.CapitalName}}</em></h3>
+		<img ng-src="images/{{selectedItem[drop.listedValue].replace(' ', '_')}}.png">
+	</div>
+</div>
