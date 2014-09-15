@@ -1,12 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" ng-app="app">
-<head>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-rc.0/angular.min.js"></script>
-    <script type="text/javascript" src="dropDown.js"></script>
-</head>
-<body>
-<h1>{{ "Angular Enabled!" }}</h1>
-<drop-down></drop-down>
-<h2>Selection : {{selection}}</h2>
-</body>
+    <head>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-rc.0/angular.min.js"></script>
+        <script type="text/javascript" src="dropDown.js"></script>
+    </head>
+    <body ng-controller="dropdownController as dropdownCtrl">
+        <h1>{{ "Angular Enabled!" }}</h1>
+        <!-- <drop-down></drop-down> -->
+        <div>
+<input list="browsers" ng-model="selection">
+<datalist id="browsers" height="200">
+    <option ng-repeat="state in dropdownCtrl.states" value="{{state.name}}" ></option>
+</datalist>
+</div>
+        <h2>Selection : {{selection}}</h2>
+    </body>
 </html>
