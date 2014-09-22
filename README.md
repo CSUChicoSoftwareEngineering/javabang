@@ -49,6 +49,7 @@ Jesse Smith
 - Familiar with C++/C/C#, javascript/jQuery/HTML/CSS/ASP.NET
 
 Rick Stone
+rstone16@mail.csuchico.edu
 - CSCI Major
 - Comfortable with C++, C, Java EE, diffrent SQL's
 - Dabbled with Ruby, ProtoBuff, TomCat7, ANT-BUILD, HTML, JavaScript 
