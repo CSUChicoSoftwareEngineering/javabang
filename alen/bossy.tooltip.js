@@ -16,18 +16,18 @@
 		return {
 			restrict: 'EA',
 			replace: true,
-			template: ' <div> Title: {{tips._options.title}} Content: {{tips._options.content}} </div>' ,
-			//templateUrl: 'bossytool.html',
+			templateUrl: 'bossytool.html',
 			controller:['$scope', 'bossyTooltipFactory', function($scope, bossyTooltipFactory) {
 					this._options = {
 					title: bossyTooltipFactory._options.title,
 					content: bossyTooltipFactory._options.content
-				};
+			};
 			}],
 			controllerAs: "tips"		
 		};
 	})
 	
+	// Directives onEnter && onExit use jQueryLite dependency
 	.directive('onEnter', function() {
 		return function(scope, element) {
 			element.bind('mouseenter', function() {
